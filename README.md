@@ -13,3 +13,5 @@ The excel file is divided in a controller file called TestSuite, and all the tes
 In the TestSuite worksheet you can ignore a test case typing an N on the "Run" column or run it typing a "Y", and make a test case dependant from other test case writing the name of the test case to which is dependent, this makes it so if the "parent" test case fails the "child" test case will be skipped <br>
 
 ## Page Object Model
+ 
+ To run the Page Object Model Testing go to the folder [selenium-tutorial/src/test/java/testscript](selenium-tutorial/src/test/java/testscript)
