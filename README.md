@@ -14,4 +14,5 @@ In the TestSuite worksheet you can ignore a test case typing an N on the "Run" c
 
 ## Page Object Model
  
- To run the Page Object Model Testing go to the folder [selenium-tutorial/src/test/java/testscript](selenium-tutorial/src/test/java/testscript)
+ To run the Page Object Model Testing go to the folder [selenium-tutorial/src/test/java/testscript](selenium-tutorial/src/test/java/testscript) and select the page that you wanna test
+ 
