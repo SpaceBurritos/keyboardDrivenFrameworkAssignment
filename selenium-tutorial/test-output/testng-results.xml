@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-06T00:27:18 CST" name="Default suite" finished-at="2021-05-06T00:27:42 CST" duration-ms="24018">
+    <groups>
+    </groups>
+    <test started-at="2021-05-06T00:27:18 CST" name="Default test" finished-at="2021-05-06T00:27:42 CST" duration-ms="24018">
+      <class name="testscript.LogInTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:19 CST" name="startUp" finished-at="2021-05-06T00:27:27 CST" duration-ms="7835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:27 CST" name="loginTest" data-provider="loginData" finished-at="2021-05-06T00:27:27 CST" duration-ms="565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[andressaurez]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Andddddddd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demoqa.com/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:27 CST" name="closeDriver" finished-at="2021-05-06T00:27:27 CST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:27 CST" name="startUp" finished-at="2021-05-06T00:27:34 CST" duration-ms="6753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:34 CST" name="loginTest" data-provider="loginData" finished-at="2021-05-06T00:27:35 CST" duration-ms="838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[andressaurez]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Andres123.#]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demoqa.com/profile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:35 CST" name="closeDriver" finished-at="2021-05-06T00:27:35 CST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="startUp()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:35 CST" name="startUp" finished-at="2021-05-06T00:27:42 CST" duration-ms="6607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:42 CST" name="loginTest" data-provider="loginData" finished-at="2021-05-06T00:27:42 CST" duration-ms="279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anddres]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Andres123.#]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://demoqa.com/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:testscript.LogInTest@3738449f]" started-at="2021-05-06T00:27:42 CST" name="closeDriver" finished-at="2021-05-06T00:27:42 CST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- testscript.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
