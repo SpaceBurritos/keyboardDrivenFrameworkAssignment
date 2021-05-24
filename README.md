@@ -4,6 +4,7 @@
 To run this progam just open testng.xml and make it run as a TestNG Suite <br>
 
 ### Files:
+* The keywords are located in [selenium-kdf/src/main/java/keyword/Keywords](selenium-kdf/src/main/java/keyword/Keywords)<br>
 * The object repository is located in [selenium-kdf/src/test/resources/objectRepositories/objects.properties](selenium-kdf/src/test/resources/objectRepositories/objects.properties)<br>
 * The excel file is located in [selenium-kdf/src/test/resources/testData.xlsx](selenium-kdf/src/test/resources/testData.xlsx) file <br>
 
