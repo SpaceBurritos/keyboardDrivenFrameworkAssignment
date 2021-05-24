@@ -4,7 +4,7 @@
 To run this progam just open testng.xml and make it run as a TestNG Suite <br>
 
 ### Files:
-* The object repository is located in the [src/test/resources/objectRepositories/objects.properties](src/test/resources/objectRepositories/objects.properties) <br>
+* The object repository is located in the [src/test/resources/objectRepositories/objects.properties](./src/test/resources/objectRepositories/objects.properties) <br>
 * The excel file is located in the src/test/resources/testData.xlsx file <br>
 
 ### Test Data File:
